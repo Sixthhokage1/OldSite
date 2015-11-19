@@ -1,0 +1,74 @@
+==================================================================
+https://keybase.io/sixthhokage1
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://sixy.name
+  * I am sixthhokage1 (https://keybase.io/sixthhokage1) on keybase.
+  * I have a public key with fingerprint 262E DE45 D797 5042 81C9  FCAD CC45 554F 176B 1306
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01014fa4d06a94cc07f644c1c04137e0d0bef877559b615275e653cf3ef456dc607a0a",
+            "fingerprint": "262ede45d797504281c9fcadcc45554f176b1306",
+            "host": "keybase.io",
+            "key_id": "cc45554f176b1306",
+            "kid": "01014fa4d06a94cc07f644c1c04137e0d0bef877559b615275e653cf3ef456dc607a0a",
+            "uid": "eab8e2b12ed83b3b9962998e66439d19",
+            "username": "sixthhokage1"
+        },
+        "service": {
+            "hostname": "sixy.name",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1447919162,
+    "expire_in": 157680000,
+    "prev": "7fd7ed23a3e11aeb13d136a1bdde58e7195e09d1ae7790784c52e1ba692e7682",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.49
+Comment: https://keybase.io/crypto
+
+yMM9AnicrVJtTFNXGC4OGbYRF0UaNtzinQOltNxzP3sblg10H0wFQdHZDOr9OLfc
+tbSlvRSaCsYAdUaDbGhwMqfbTFS2OKMYJigbhpkAIgzdd+aAMJzZmARYIUFg9zZb
+9mc/d/6857zneZ7zPG9O1/LHNNqoWy8V5Oodq2KiejsbyzQ7t1ZZggjnFgKIUh0w
+UqBTgD7Z5pAExIKgAAWEyBICSrEMwfMoLVIEwQMeJQBOQ1RAOSiaaZokGY4CJEaT
+kCJxXsShSJCUwFMozaIskoaIkssOvR6v5JIVWYzCoAAJUqAZmkQJzAx4RuRZgecJ
+kiQJEdAUB3CUUojFbp/KUMxxrA+aJLfSUw62iL3/wP/PvssicpDlzBDjgOLajHM4
+xzAUxjBmSFEEzgiAUYE+6HWxJVBB+6QKubjY7WDtECCVaYhy45d4qA5XTfMvKmCK
+7NMQj9ctu3m3U2kXy7LHorLkgEeFlUPO9reAjZNcgjJHheCHXp/kdiEWoCB5WVIV
+AUHQDGAAhaUhsMIjeaFNUhEkTZlRZanPQL8iSYsCDQUMZ3EIAAuVyQkAp1jACQIk
+zZAGDAlRJRYLaZpBaTPBkxgEHEsxGFS0MESNVOpyIxZCscnaI2HsLlYu80Kk8kbn
+G9GaKK0mZukS9X9ptMue+OfXfTqyYhGCpEP7tL0B87bEieZb97/TyqHRkm0Lr3UY
+4+LWzyWBH8Kmg+d6Vj079PX7Iafj0DRNjzaf2oLvnmbX6Apn6JmE/PDupcEbtaPG
+TbqE506/3Vhz4pfilq7rDe2SP7rafPaezDJXP9KdzcrMN41M1+4Z/KK1akyTkxC9
+Z+gulpzhCTlbNs5YY5Kt/kvjJRv2z32L/PhH0+yxCtEdtXauYddo1VHkYV7/K2cc
+oe2PnooL/cyMIe/IqCWRGKt+L9j/4NqrvYxp9puGA/bm2B4tMWgznPf9Wlr+TPd4
+wkJuh1E39Rt39XzJ7Jac2tTZg/15zT8RF6j6kWybrX7++os1Kw9Mfv9ufsdn8Qbd
+619dTHR9/qA8z/68wRkeupi7VrrZmNneWnose9/Jynr/+EjsWE7RoM5SGRvy3vNY
+edvGqSPy5OWUntPM6uG+T5oMH4pl2/9869HLyeGp3HKrGJwKpWRWYEeS07dmGrXB
+E0W+mb2T3e2l4ZbDSW2/75z/8trtXZsfFtxvytqwOOHYIcV38cP6+HXpxnPHh1Mv
+mBJS63I9T0ct9C3hJ/SgYE19zabVNW3WN+vgnSv+vZ0D3fr9AX/GgHGZcfgksg4L
+fKxPHhq4lGXPGKjb/EJha97d7KJT4dvLb65IucI+mYnOVq9sXjxzPLXtzvrD1sLL
+oaPzhvQP+nawj/8Fc9+5lQ==
+=Vj68
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/sixthhokage1
+
+==================================================================
